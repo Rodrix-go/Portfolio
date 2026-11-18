@@ -1,7 +1,7 @@
 # Portfólio pessoal | Rodrigo
 
-Olá !! Sou Rodrigo, Neste portfólio, compartilho minhas experiências profissionais, os projetos dos quais participei e as principais tecnologias que uso em eletrônica, firmware e robótica.
+<p align="justify">Olá !! Sou Rodrigo, Neste portfólio, compartilho minhas experiências profissionais, os projetos dos quais participei e as principais tecnologias que uso em eletrônica, firmware e robótica.</p>
 
-As fotos e os vídeos mostram etapas do desenvolvimento, da montagem dos protótipos aos testes e às demonstrações. O site também inclui meu currículo em PDF para download.
+<p align="justify">As fotos e os vídeos mostram etapas do desenvolvimento, da montagem dos protótipos aos testes e às demonstrações. O site também inclui meu currículo em PDF para download.</p>
 
-Acesse via:
+[Acesse o portfólio](https://rodrix-go.github.io/Portifolio/#inicio)
